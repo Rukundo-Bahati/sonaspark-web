@@ -51,7 +51,7 @@ SonaSpark is a comprehensive mobile-first platform designed to empower communiti
 1. Clone the repository:
 ```bash
 git clone https://github.com/Rukundo-Bahati/sonaspark-web.git
-cd sonaspark
+cd sonaspark-web
 ```
 
 2. Install dependencies:
