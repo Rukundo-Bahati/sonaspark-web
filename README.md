@@ -114,9 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For support or inquiries, please reach out to:
-- Email: support@sonaspark.org
+- Email: rukundorca@gmail.com
 - Website: [sonaspark.org](https://sonaspark.org)
 
 ---
-
-Made with ❤️ for a more resilient future 
