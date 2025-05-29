@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "SonaSpark - Climate Resilience Tool",
-  description: "A climate resilience tool for communities in least developed countries",
+  description: "A climate resilience tool",
   generator: "v0.dev",
   icons: {
     icon: "/favicon.ico", 
